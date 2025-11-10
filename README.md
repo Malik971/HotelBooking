@@ -18,9 +18,11 @@ souhaitée.
 ● les réservations et les comptes clients.
 
 
-##### Technologies cibles : Frontend React, Backend Java Spring Boot, Base de données relationnelle (PostgreSQL ou MySQL).
+### Technologies cibles : Frontend React, Backend Java Spring Boot, Base de données relationnelle (PostgreSQL ou MySQL).
 
-2. Suivi du projet
+2. Suivi du projet 
+
+[plus d'info sur](https://docs.google.com/document/d/1Lh5e2OUFWu4cGZceroKN7-JqxY0jcAA2zcEmHkMi7PE/edit?tab=t.0)
 
 Nous avons commencé par analyser le cahier des charges, puis créé un tableau de bord sur Trello
  pour centraliser nos idées, nos tâches et le suivi de l’avancement.
