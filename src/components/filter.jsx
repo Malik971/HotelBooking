@@ -14,13 +14,15 @@ export default function Filter() {
         <label className="font-medium text-gray-700">Prix par nuit</label>
         
         <div className="flex justify-between text-sm text-gray-500">
-          <span>0€</span>
+          <span>20€</span>
           <span>500€</span>
         </div>
 
+        {/* je veux mettre le prix au dessus du point qui coulisse */}
+        
         <input
           type="range"
-          min="0"
+          min="20"
           max="500"
           value={price}
           onChange={(e) => setPrice(e.target.value)}
